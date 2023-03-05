@@ -1,0 +1,7 @@
+echo "# iraq" >> README.md 
+git init 
+add README.md 
+git التثبيت - m "الأول" 
+git Branch -M main 
+git remote add origin https://github.com/omarralll/iraq.git
+ git push - ش الرئيسي الأصل
